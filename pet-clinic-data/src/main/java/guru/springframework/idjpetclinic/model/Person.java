@@ -1,6 +1,6 @@
 package guru.springframework.idjpetclinic.model;
 
-public class Perosn extends BaseEntity{
+public class Person extends BaseEntity{
 
     String firstName;
     String lastName;
